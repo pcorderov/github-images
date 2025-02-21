@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500.11 718">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask);
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3, .cls-4 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-5 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-7 {
+        mask: url(#mask-1);
+      }
+
+      .cls-8 {
+        fill: url(#Degradado_sin_nombre_5);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-9 {
+        fill: url(#Degradado_sin_nombre_22);
+      }
+    </style>
+    <mask id="mask" x="66.89" y="-24.39" width="378.97" height="383.63" maskUnits="userSpaceOnUse">
+      <rect class="cls-5" x="40.94" y="112.58" width="430.89" height="105.12" transform="translate(-41.67 229.72) rotate(-45.01)"/>
+    </mask>
+    <linearGradient id="linear-gradient" x1="313.56" y1="-342" x2="313.56" y2="-308.47" gradientTransform="translate(36.75 -653.64) scale(.72 -2.57)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3a39d"/>
+      <stop offset=".02" stop-color="#acaca7"/>
+      <stop offset=".1" stop-color="#c6c6c2"/>
+      <stop offset=".18" stop-color="#dbdbd8"/>
+      <stop offset=".28" stop-color="#ebebea"/>
+      <stop offset=".4" stop-color="#f6f6f6"/>
+      <stop offset=".57" stop-color="#fdfdfd"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="638.24" cy="1056.7" fx="638.24" fy="1056.7" gradientTransform="translate(-6198.99 -2168.55) rotate(90) scale(4.23 -6.1)" xlink:href="#radial-gradient"/>
+    <mask id="mask-1" x="36.98" y="328.5" width="411.22" height="406.22" maskUnits="userSpaceOnUse">
+      <rect class="cls-2" x="187.57" y="296.9" width="105.12" height="469.43" transform="translate(-305.61 325.62) rotate(-45.01)"/>
+    </mask>
+    <linearGradient id="linear-gradient-2" x1="-261.98" y1="-171.57" x2="-261.98" y2="-138.04" gradientTransform="translate(-140.49 318.4) rotate(-90) scale(.79 -2.57)" xlink:href="#linear-gradient"/>
+    <linearGradient id="Degradado_sin_nombre_5" data-name="Degradado sin nombre 5" x1="0" y1="236.01" x2="222.36" y2="236.01" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#db4914"/>
+      <stop offset=".43" stop-color="#d84814"/>
+      <stop offset=".65" stop-color="#d14714"/>
+      <stop offset=".82" stop-color="#c34415"/>
+      <stop offset=".97" stop-color="#b14017"/>
+      <stop offset="1" stop-color="#ac4018"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_22" data-name="Degradado sin nombre 22" x1="139.22" y1="356.32" x2="500.11" y2="356.32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#273370"/>
+      <stop offset=".34" stop-color="#26316b"/>
+      <stop offset=".69" stop-color="#232c5f"/>
+      <stop offset="1" stop-color="#20264e"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-6">
+    <g id="Capa_1">
+      <g>
+        <g class="cls-1">
+          <rect class="cls-4" x="48.07" y="141.08" width="430.89" height="77.09" transform="translate(-49.82 239) rotate(-45.01)"/>
+        </g>
+        <g class="cls-7">
+          <rect class="cls-3" x="216.4" y="290.09" width="77.09" height="469.43" transform="translate(-296.46 334.09) rotate(-45.01)"/>
+        </g>
+        <polygon class="cls-8" points="0 356.32 120.3 236.02 0 115.71 102.05 115.71 222.36 236.02 102.05 356.32 0 356.32"/>
+        <polygon class="cls-9" points="500.11 551.57 304.86 356.33 500.11 161.07 334.49 161.07 139.22 356.33 334.49 551.57 500.11 551.57"/>
+      </g>
+    </g>
+  </g>
+</svg>
